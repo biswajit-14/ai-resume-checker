@@ -33,7 +33,7 @@ export function Welcome() {
                     target="_blank"
                     rel="noreferrer"
                   >
-                    {icon}
+                    {/* {icon} */}
                     {text}
                   </a>
                 </li>
